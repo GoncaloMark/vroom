@@ -18,7 +18,7 @@ opencv-python==4.11.0.86
 opt_einsum==3.4.0
 packaging==25.0
 pillow==11.2.1
-protobuf==4.25.7
+protobuf==4.25.8
 PyAudio==0.2.14
 pycparser==2.22
 pynng==0.8.1
